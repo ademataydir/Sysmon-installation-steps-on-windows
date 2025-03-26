@@ -45,7 +45,10 @@ If we see this screen, the Sysmon installation process is complete.
 
 #### Now we download the Sysmon Configuration  file with the xml extension.
 
-We need and install it with the "sysmon.exe -accepteula -i <file name>" command. Even if we want to upload a different file later, we  update it with the "sysmon.exe -c <new file name>" command.
+[sysmonconfig.xml](https://github.com/olafhartong/sysmon-modular)
+
+We need and install it with the "sysmon.exe -accepteula -i <file name>" command. 
+Even if we want to upload a different file later, we  update it with the "sysmon.exe -c <new file name>" command.
 
 ![image](https://github.com/user-attachments/assets/2a1b2b71-47b2-4ef4-a185-2b32510c420e)
 
