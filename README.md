@@ -15,7 +15,7 @@ https://download.sysinternals.com/files/Sysmon.zip
 
 We go to the location of the Sysmon file that has been downloaded to our computer, right-click on the file and say "Extract All".
 
-![image](https://github.com/user-attachments/assets/10418c98-c6ce-4989-b603-ca3c51da51f8)
+![image](https://github.com/user-attachments/assets/122e1e3c-2e70-46f7-8839-617b20091713)
 
 Here, by clicking the "Extract" button, we extract the files compressed in zip format to the normal folder.
 
