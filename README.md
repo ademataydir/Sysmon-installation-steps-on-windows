@@ -54,7 +54,7 @@ Even if we want to upload a different file later, we  update it with the "sysmon
 
 Finally,  in the Task Manager, right-click on Sysmon from the Services section  and do Restart.
 
-![image](https://github.com/user-attachments/assets/476110ee-8d37-4a81-a043-53e5641fd25f) 
+![image](https://github.com/user-attachments/assets/c4d6683d-34e7-4cfc-981e-d9ce72aa2ba6)
 
 © Splunk Inc.
 
