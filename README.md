@@ -31,15 +31,15 @@ We couldn't click and run the Sysmon installation files because they were blocke
 
 Since we want to run it as Administrator, we will run CMD in Administrator mode by pressing the "Yes" button here.
 
-![image](https://github.com/user-attachments/assets/d7441982-1612-4151-8ef5-4e635b1e75f1)
+![Screenshot 2025-03-27 144429](https://github.com/user-attachments/assets/f5b10a8e-5d5a-4ab7-94f2-f8d336a7a05a)
 
 Before we can install Sysmon through CMD, we must first go to its location. To do this, we go to the corresponding location using the "cd" command.
 
-![image](https://github.com/user-attachments/assets/8a9efc03-c81c-4c6f-939d-0bf74a64d548)
+![Screenshot 2025-03-27 144510](https://github.com/user-attachments/assets/0ad099ab-4271-4dbc-bd04-4823d1fcea8a)
 
 For the installation process, we write "Sysmon.exe -i" and press Enter.
 
-![image](https://github.com/user-attachments/assets/fb3a6c76-f019-4112-a3ab-792b444bf87d)
+![Screenshot 2025-03-27 144556](https://github.com/user-attachments/assets/f7691018-3daa-46fc-9a2c-da58089ac05a)
 
 If we see this screen, the Sysmon installation process is complete.
 
